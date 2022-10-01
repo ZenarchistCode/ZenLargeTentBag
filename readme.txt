@@ -18,6 +18,8 @@ Installation Instructions:
 
 Install this mod like any other mod - copy it into your server's root directory, add it to your launch parameters, and make sure to copy the .bikey into your server keys.
 
+Don't forget to add the types.xml entry if you don't want the tent bag to despawn on restarts or when there are no players around.
+
 This mod must be installed on both the server & client.
 
 Repack & Source Code:
